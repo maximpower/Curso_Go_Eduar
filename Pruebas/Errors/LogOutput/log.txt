@@ -1,0 +1,1 @@
+2020/12/30 13:41:53 open sin-archivo.txt: El sistema no puede encontrar el archivo especificado.
